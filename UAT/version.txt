@@ -1,2 +1,2 @@
-FE_Version:01.01.09
+FE_Version:01.01.10
 FE_ReleaseDate:22/06/2026
